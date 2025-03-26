@@ -1,0 +1,5 @@
+crewai==0.102.0
+langchain-openai==0.3.9
+openai==1.68.2
+python-dotenv
+tqdm
