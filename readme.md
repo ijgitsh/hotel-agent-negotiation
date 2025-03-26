@@ -58,7 +58,7 @@ OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxx
 
 ## ▶️ Running the Simulation
 ```bash
-python negotiation.py
+python negotiate.py
 ```
 You’ll be prompted to enter your initial offer. The agents will then begin the negotiation, round by round.
 
@@ -66,7 +66,7 @@ You’ll be prompted to enter your initial offer. The agents will then begin the
 ##  Project Structure
 
 ```bash
-├── negotiation.py         # Main script
+├── negotiate.py         # Main script
 ├── requirements.txt       # Dependencies
 ├── .env                   # API key storage (you create this)
 └── negotiation_log.txt    # Auto-generated log file
